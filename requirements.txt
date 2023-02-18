@@ -1,0 +1,3 @@
+pip-autoremove==0.10.0
+manim==0.17.2
+vanim==1.0
