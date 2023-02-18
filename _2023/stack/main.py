@@ -1,6 +1,6 @@
 from manim import *
 
-from lib.components import Buffer
+from vanim.components import Buffer
 
 class DifferentWeight(Scene):
     def construct(self):
